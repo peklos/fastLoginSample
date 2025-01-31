@@ -1,4 +1,4 @@
-# fastLoginSample
+![image](https://github.com/user-attachments/assets/2bb504b2-95b6-4d14-b5a8-1c8183deeaa3)# fastLoginSample
 нагло взято с ютуба https://youtu.be/C1o_S73uhU0?si=ERww8cXNxILzSmbV
 PHP 7.4 OpenServer MySQL HTML 
 
@@ -12,4 +12,7 @@ PHP 7.4 OpenServer MySQL HTML
 
 ![image](https://github.com/user-attachments/assets/952e5533-f119-4217-8c64-45a481ec030f)
 
+![image](https://github.com/user-attachments/assets/e19e3bbb-cbe5-4922-87e4-9a0a2602e269)
+
+![image](https://github.com/user-attachments/assets/29ffcce2-8147-4edd-8441-dd03696b90b1)
 

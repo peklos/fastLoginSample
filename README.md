@@ -16,3 +16,4 @@ PHP 7.4 OpenServer MySQL HTML
 
 ![image](https://github.com/user-attachments/assets/29ffcce2-8147-4edd-8441-dd03696b90b1)
 
+![image](https://github.com/user-attachments/assets/822a7502-d8d6-4bd7-902f-9f4ed73c848e) без этой галочки проблемы будут, обратить внимание

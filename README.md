@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/2bb504b2-95b6-4d14-b5a8-1c8183deeaa3)# fastLoginSample
+# fastLoginSample
+
 нагло взято с ютуба https://youtu.be/C1o_S73uhU0?si=ERww8cXNxILzSmbV
+
 PHP 7.4 OpenServer MySQL HTML 
 
 без майскл не будет работать ПхпМайАдмин
@@ -11,6 +13,8 @@ PHP 7.4 OpenServer MySQL HTML
 логин:пароль для пхп root:(пустота ну буквально ничего)
 
 ![image](https://github.com/user-attachments/assets/952e5533-f119-4217-8c64-45a481ec030f)
+
+![image](https://github.com/user-attachments/assets/2bb504b2-95b6-4d14-b5a8-1c8183deeaa3)
 
 ![image](https://github.com/user-attachments/assets/e19e3bbb-cbe5-4922-87e4-9a0a2602e269)
 

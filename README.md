@@ -34,3 +34,18 @@ PHP 7.4 OpenServer MySQL HTML
 датабейз сверху кароч это бд, а дальше табица используется хз как тут например
 
 $sql = "INSERT INTO `users` (`name`, `email`, `phone`, `pass`) VALUES ('$name', '$email', '$phone', '$pass')";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
